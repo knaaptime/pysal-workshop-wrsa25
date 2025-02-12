@@ -1,0 +1,28 @@
+name: workshop-pysal
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python ==3.12
+  - mamba
+  - bokeh
+  - pip
+  - geopandas
+  - descartes
+  - folium
+  - ipywidgets
+  - jupyterlab
+  - pysal
+  - nbconvert
+  - networkx
+  - scikit-learn
+  - seaborn
+  - statsmodels
+  - geodatasets
+  - hvplot
+  - holoviews
+  - geoviews
+  - watermark
+  - rasterio
+  - contextily
+  - geosnap

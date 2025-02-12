@@ -55,7 +55,7 @@ Miniforge is a minimal installer for Conda, a popular package and environment ma
 After installing Miniforge, you'll have access to the `conda` command, which you can use to create environments, install packages, and manage your Python projects.
 
 
-Start a terminal and navigate to the directory of the downloaded/ cloned materials. For example, if the materials now live in the directory `/Users/knaaptime/Downloads/workshop-pysal-narsc` , you need to navigate to that directory from the terminal (using command `cd` ):
+Start a terminal and navigate to the directory of the downloaded/ cloned materials.
 
 Once we have done that, run:
 
